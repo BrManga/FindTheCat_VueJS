@@ -1,6 +1,5 @@
 <template>
   <div class="game-area">
-    <p>{{answer}}</p>
     <h1 class="title">Where is the cat?</h1>
     <h4 class="description">Guess the card</h4>
     <div class="container">
